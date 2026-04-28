@@ -28,19 +28,16 @@ This project predicts **movie ratings** using user and movie IDs as input featur
 - Joblib
 
 ## File Structure
-```bash```
 Movie-Rating-Prediction/
 ├── data/
-│ └── ratings.csv
+│   └── ratings.csv
 ├── notebooks/
-│ └── Movie_Rating_Prediction.ipynb
+│   └── Movie_Rating_Prediction.ipynb
 ├── visuals/
-│ └── prediction_plot.png
+│   └── prediction_plot.png
 ├── models/
-│ └── rating_model.pkl
+│   └── rating_model.pkl
 └── README.md
-
----
 
 ## How to Run
 1. Install required packages: `pip install -r requirements.txt`
