@@ -40,6 +40,7 @@ Movie-Rating-Prediction/
 │ └── rating_model.pkl
 └── README.md
 
+---
 
 ## How to Run
 1. Install required packages: `pip install -r requirements.txt`
