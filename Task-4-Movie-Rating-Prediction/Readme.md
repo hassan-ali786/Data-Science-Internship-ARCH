@@ -28,7 +28,7 @@ This project predicts **movie ratings** using user and movie IDs as input featur
 - Joblib
 
 ## File Structure
-
+```
 Movie-Rating-Prediction/
 ├── data/
 │   └── ratings.csv
@@ -39,7 +39,7 @@ Movie-Rating-Prediction/
 ├── models/
 │   └── rating_model.pkl
 └── README.md
-
+```
 ## How to Run
 1. Install required packages: `pip install -r requirements.txt`
 2. Open the notebook `Movie_Rating_Prediction.ipynb`
