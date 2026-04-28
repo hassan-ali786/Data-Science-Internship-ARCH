@@ -28,7 +28,7 @@ This project predicts **movie ratings** using user and movie IDs as input featur
 - Joblib
 
 ## File Structure
-```bash
+```bash```
 Movie-Rating-Prediction/
 ├── data/
 │ └── ratings.csv
