@@ -74,8 +74,6 @@ Data-Science-Internship-ARCH/
 ├── Movie-Rating-Prediction/
 │   ├── data/
 │   ├── notebooks/
-│   ├── visuals/
-│   ├── models/
 │   └── README.md
 ├── requirements.txt
 └── README.md
