@@ -70,8 +70,6 @@ Data-Science-Internship-ARCH/
 ├── Customer-Segmentation/
 │   ├── data/
 │   ├── notebooks/
-│   ├── visuals/
-│   ├── models/
 │   └── README.md
 ├── Movie-Rating-Prediction/
 │   ├── data/
