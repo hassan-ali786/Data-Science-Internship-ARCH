@@ -60,8 +60,6 @@ Data-Science-Internship-ARCH/
 ├── Titanic-Survival/
 │   ├── data/
 │   ├── notebooks/
-│   ├── visuals/
-│   ├── models/
 │   └── README.md
 ├── Stock-Price-Prediction/
 │   ├── data/
