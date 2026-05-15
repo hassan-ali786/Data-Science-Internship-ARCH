@@ -64,8 +64,6 @@ Data-Science-Internship-ARCH/
 ├── Stock-Price-Prediction/
 │   ├── data/
 │   ├── notebooks/
-│   ├── visuals/
-│   ├── models/
 │   └── README.md
 ├── Customer-Segmentation/
 │   ├── data/
